@@ -23,7 +23,7 @@ a única exigência é que a primeira coluna seja nomeada 'nome', portanto, pode
 
 Se houver o mesmo nome mais de uma vez, o programa irá considerar apenas 1, ou seja, não há problemas em existir nomes repetidos no arquivo.
 
-================================================================================================================================================
+**** ***** ***** **** **** **** **** ****
 
 O SORTEIO:
 
