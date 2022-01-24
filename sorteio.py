@@ -1,5 +1,3 @@
-#Escrito por Luan Roberto Nunes em 17/12/2021
-
 import tkinter
 import easygui
 import random
