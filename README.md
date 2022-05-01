@@ -30,7 +30,7 @@ O SORTEIO:
 Na tela de sorteio, existe uma visão central, onde correrão os nomes para o sorteio, o botão de 'INICIAR' e o botão 'PARAR';
 
 Ao clicar em 'INICIAR', os nomes começarão a correr a visão central (roleta), aguardando o clique no botão 'PARAR', onde o nome central destacado em vermelho
-é o vencedor. O processo pode ser repetir quantas vezes forem necessárias;
+é o vencedor. O processo pode se repetir quantas vezes forem necessárias;
 
 Cada vencedor é exportado para um arquivo, que será criado em tempo de execução, nomeado 'Vencedores.txt' para posterior consulta;
 
@@ -45,5 +45,5 @@ No botão 'IMPRIMIR VENCEDORES' a lista de vencedores será enviada para impress
 ******
 
 Importante 'PARAR' a roleta antes de realizar estas operações, pois qualquer operação (ex: reinicializar rodadas, limpar vencedores) durante a roleta em
-operação, será considerada como rodada 0!
+operação, será considerada como rodada 0! (a não ser que este seja o efeito desejado).
 
